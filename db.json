@@ -114,12 +114,12 @@
     }
   ],
   "update_at": [
-    {
-      "id": 1,
-      "name": "Paladin",
-      "item": "Unnatural Bow",
-      "rarity": "Rare",
-      "image": "https://bafybeifsqscacpsp63dalmuyemivrn27cj5dv6rh4lwj3qdk4aadqid2d4.ipfs.nftstorage.link/"
-    }
+  {
+    "id": 1,
+    "name": "Paladin",
+    "item": "Elite Skull Bow",
+    "rarity": "Medium",
+    "image": "https://bafybeicbsvr7rhwdlfqb56azmwbk765qtm2mza7kmy45imptxd25lnvzty.ipfs.nftstorage.link/"
+  }
   ]
 }
